@@ -2,7 +2,7 @@
 
 ![pic-network](docs/network-arch.png)
 
-This is the project webpage of our CVPR 2020 work. RPM-Net is a deep-learning approach designed for performing rigid partial-partial point cloud registration for objects in a iterative fashion. 
+This is the project webpage of our CVPR 2020 work. RPM-Net is a deep-learning approach designed for performing rigid partial-partial point cloud registration for objects in a iterative fashion. Our paper can be found on [Arxiv](https://github.com/yewzijian/3DFeatNet/blob/master/Readme.md).
 
 ```
 @inproceedings{yew2020-RPMNet, 
