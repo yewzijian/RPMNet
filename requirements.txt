@@ -1,0 +1,14 @@
+coloredlogs
+GitPython
+h5py
+matplotlib
+numpy
+openpyxl
+open3d
+pandas
+scipy
+tensorboardX
+torch
+torchvision
+tqdm
+xlrd
